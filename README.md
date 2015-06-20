@@ -2,7 +2,7 @@
 
 Hi Friends,
 
-We are here to show you demo of GPS Map with the MAP Fragment and Support MAP Fragemnt.
+We are here to show you demo of GPS Map with the MAP Fragment and Support MAP Fragement.
 
 It is also demo of tab layout.
 
