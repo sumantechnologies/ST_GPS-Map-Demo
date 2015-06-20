@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ST GPSMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="developed_by">Design &amp; Developed By : Suman Technologies</string>
+    <string name="proud">Proudly Made In India</string>
+ 
+</resources>
