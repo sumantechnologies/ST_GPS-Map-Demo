@@ -37,7 +37,7 @@ public class MapFragmentDemo extends Activity{
  		download.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-            	Uri uri = Uri.parse("https://github.com/sumantechnologies/ST_GoogleMapDemo/");
+            	Uri uri = Uri.parse("https://github.com/sumantechnologies/ST_GPS-Map-Demo");
             	Intent intent = new Intent(Intent.ACTION_VIEW, uri);
             	startActivity(intent);
             }
